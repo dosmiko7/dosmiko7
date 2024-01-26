@@ -37,18 +37,18 @@
 **TechStack**
 
 <p align="center">
-  <img width="32px" src="images/react.png" alt="react" style="vertical-align:top; margin:4px"/>    
-  <img width="32px" src="images/typescript.png" alt="typescript" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/javascript.png" alt="javascript" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/html.png" alt="html" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/react-router.png" alt="reactrouter" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/react-query.png" alt="reactquery" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/styled-components.png" alt="styledcomponents" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/sass.png" alt="sass" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/rtl.png" alt="rtl" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/vitest.png" alt="vitest" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/vsc.png" alt="vsc" style="vertical-align:top; margin:4px"/>
-  <img width="32px" src="images/git.png" alt="git" style="vertical-align:top; margin:4px"/>
+  <img width="42px" title="React" src="images/react.png" alt="react" style="vertical-align:top; margin:6px"/>    
+  <img width="42px" title="TypeScript" src="images/typescript.png" alt="typescript" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="JavaScript" src="images/javascript.png" alt="javascript" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="HTML" src="images/html.png" alt="html" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="React Router" src="images/react-router.png" alt="reactrouter" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="React Query" src="images/react-query.png" alt="reactquery" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="Styled Components" src="images/styled-components.png" alt="styledcomponents" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="SASS" src="images/sass.png" alt="sass" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="React Testing Library" src="images/rtl.png" alt="rtl" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="Vitest" src="images/vitest.png" alt="vitest" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="Visual Studio Code" src="images/vsc.png" alt="vsc" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="Git" src="images/git.png" alt="git" style="vertical-align:top; margin:6px"/>
 </p>
 
 <p align="center">
