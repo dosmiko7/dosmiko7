@@ -51,6 +51,11 @@
   <img width="42px" title="Git" src="images/git.png" alt="git" style="vertical-align:top; margin:6px"/>
 </p>
 
+**I am currently learning**
+<p align="center">
+  <img width="42px" title="Angular" src="images/angular.png" alt="angular" style="vertical-align:top; margin:6px"/>    
+</p>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" alt="pepe"/>
 </p>
