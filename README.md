@@ -53,7 +53,8 @@
 
 **I am currently learning**
 <p align="center">
-  <img width="42px" title="Angular" src="images/angular.png" alt="angular" style="vertical-align:top; margin:6px"/>    
+  <img width="42px" title="Angular" src="images/angular.png" alt="angular" style="vertical-align:top; margin:6px"/>
+  <img width="42px" title="NextJS" src="images/nextjs.png" alt="nextjs" style="vertical-align:top; margin:6px"/>  
 </p>
 
 <p align="center">
