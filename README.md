@@ -8,10 +8,6 @@
     <img width="32px" src="images/linkedin.png" alt="LinkedIn"/>
   </a>
   &#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/400011174525140995" title="Discord">
-    <img width="32px" src="images/discord.png" alt="Discord"/>
-  </a>
-  &#8287;&#8287;&#8287;
   <a href="mailto:mikolaj.oberda@gmail.com" title="Email">
     <img width="32px" src="images/email.png" alt="Email"/>
   </a>
@@ -20,10 +16,10 @@
 ---
 
 ### 👨‍💻 About Me
-- Full-stack developer with a frontend focus: **React, Next.js & TypeScript** on the front, **NestJS & PostgreSQL** on the back
+- **React, Next.js & TypeScript** on the front, **NestJS & PostgreSQL** on the back
 - Currently **Full-Stack & Lead Frontend Developer** at **Full Stack House**, building a legal e-learning platform for US clients
 - Previously built a medical evaluation SaaS used by US healthcare facilities
-- Care about performance, accessibility and testing
+- Care about fast, accessible UIs and solid E2E tests
 - Bachelor's degree in Computer Science, **Jagiellonian University in Cracow**
 - Outside of coding: 🏋️‍♂️ gym, 🎮 gaming, 🐸 Pepe memes
 
