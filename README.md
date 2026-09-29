@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mikołaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
+  <p><b>Frontend-focused Full-Stack Developer</b> · Lublin, Poland</p>
 </div>
 
 <div align="center">
@@ -19,16 +20,28 @@
 ---
 
 ### 👨‍💻 About Me
-- Frontend Engineer specializing in **React & Next.js**
+- Full-stack developer with a frontend focus: **React, Next.js & TypeScript** on the front, **NestJS & PostgreSQL** on the back
+- Currently **Full-Stack & Lead Frontend Developer** at **Full Stack House**, building a legal e-learning platform for US clients
+- Previously built a medical evaluation SaaS used by US healthcare facilities
+- Care about performance, accessibility and testing
 - Bachelor's degree in Computer Science, **Jagiellonian University in Cracow**
-- Passionate about building **interactive and user-friendly web applications**
-- Strong interest in **UI/UX** and writing clean, maintainable code
 - Outside of coding: 🏋️‍♂️ gym, 🎮 gaming, 🐸 Pepe memes
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,styledcomponents,materialui,redux,vite" />
 </div>
-  
+
+**Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,graphql,firebase" />
+</div>
+
+**Testing & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,git,github,docker,figma" />
+</div>
